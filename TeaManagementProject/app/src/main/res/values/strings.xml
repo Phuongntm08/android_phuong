@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TeaManagementProject</string>
+    <string name="hint.new.tea.name">Tea Name</string>
+    <string name="hint.new.description">Description</string>
+    <string name="hint.new.origin">Origin</string>
+    <string name="hint.new.ingredients">Ingredients</string>
+    <string name="hint.new.timer">Timer</string>
+    <string name="hint.caffeine.level">Caffeine level</string>
+</resources>

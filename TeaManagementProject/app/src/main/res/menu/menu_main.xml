@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/addMenuId"
+        android:title="Add tea"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/timerMenuId"
+        android:title="Timer"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/settingsMenuId"
+        android:title="Settings"
+        app:showAsAction="never" />
+</menu>

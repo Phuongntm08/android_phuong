@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "520765457404",
+    "project_id": "teacup-cfa75",
+    "storage_bucket": "teacup-cfa75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520765457404:android:42f7a6b364d96456a1e879",
+        "android_client_info": {
+          "package_name": "com.example.teamanagementproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520765457404-ass7llvce4orcbl10c34kcqpthsjm2rk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-IrpyLa9IywxYVozEyGwEMS8d-dnTuIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520765457404-ass7llvce4orcbl10c34kcqpthsjm2rk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
